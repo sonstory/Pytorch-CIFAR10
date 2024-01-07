@@ -10,8 +10,8 @@
 # Result
 |Model|Accuracy|Paper|Review|
 |:---:|:---:|:---:|:---:|
-|GoogleNet|--|--|--|
-|VGGNet|--|--|--|
+|AlexNet|--|[Paper](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)|[Blog](https://sonstory.tistory.com/120)|
+|Inception V1|--|--|--|
+|VGGNet(VGG16)|--|--|--|
 |ResNet|--|--|--|
 |ViT|--|[Paper](https://arxiv.org/pdf/2010.11929.pdf)|[Blog](https://sonstory.tistory.com/97)|
-|AlexNet|--|[Paper](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)|[Blog](https://sonstory.tistory.com/120)|
