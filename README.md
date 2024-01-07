@@ -1,6 +1,5 @@
 # Pytorch-CIFAR10
 - Image Classification on CIFAR10 dataset with Deep Learning Models using Pytorch
-- https://github.com/kuangliu/pytorch-cifar 코드를 참고하였습니다.
 - `Image Classification` 모델들에 대한 논문을 리뷰하고, `Pytorch`를 통해 이를 구현해 `CIFAR10` 데이터셋을 학습 및 분류를 수행합니다.
 
 # Dataset(CIFAR10)
