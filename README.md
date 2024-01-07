@@ -10,7 +10,7 @@
 # Result
 |Model|Accuracy|Paper|Review|
 |:---:|:---:|:---:|:---:|
-|AlexNet|--|[Paper](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)|[Blog](https://sonstory.tistory.com/120)|
+|AlexNet|85.65%|[Paper](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)|[Blog](https://sonstory.tistory.com/120)|
 |Inception V1|--|--|--|
 |VGGNet(VGG16)|--|--|--|
 |ResNet|--|--|--|
